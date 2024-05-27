@@ -311,3 +311,29 @@
 
 // console.log(sum);
 
+
+
+
+// synchronous:  javascript code  by code chlti hai
+// asynchronous: is pr bhi kaam krti hai jab koii in sab mai s ho toh yeh kaam kregi
+// settimeout
+//setInterval
+//promises
+//async await
+//axios
+//fetch
+
+
+
+
+// console.log(`hello world 1`);
+// console.log(`hello world 2`);
+// console.log(`hello world 3`);
+// setTimeout(()=>{
+//     console.log(`hello world 4`);
+// })
+
+// console.log(`hello world 5`);
+
+
+
